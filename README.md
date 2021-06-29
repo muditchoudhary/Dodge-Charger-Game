@@ -14,9 +14,9 @@ There is also a garage screen where you can buy new vehicles and equip according
     - Collect heart to increase vehicles's health.
 
 - #### Screenshots
-![Main-Menu-Image](Images\demo_img0.png)
-![Game-Image](Images\demo_img1.png)
-![Garage-Image](Images\demoj_img2.png)
+![Main-Menu-Image](Images/demo_img0.png)
+![Game-Image](Images/demo_img1.png)
+![Garage-Image](Images/demo_img2.png)
 
 # How to install the game locally?
 1. Install the python [Download python](https://www.python.org/downloads/)
