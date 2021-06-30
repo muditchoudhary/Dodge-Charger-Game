@@ -22,7 +22,8 @@ There is also a garage screen where you can buy new vehicles and equip according
 1. Install the python [Download python](https://www.python.org/downloads/)
 2. **Windows** Type/Paste this on command prompt ```pip install -r requirements.txt```
 3. All other modules that were used have already come with python.
-
+#### **OR**
+1. You can just download this code as zip or clone it by clicking on the green color code button.
 # Project Structure
 1. Assets - Contains all the images that have used in this game.
 2. Images - Contains screenshots of the game for README file
@@ -38,6 +39,8 @@ There is also a garage screen where you can buy new vehicles and equip according
 
 # How to play?
 - Click on the dodge_charger.py file
+##### **OR**
+- Click on the dodge_charger.exe file
 - And Enjoy :rocket:
 
 # Tip
